@@ -4,6 +4,8 @@ BetterEyes is a Project that I made in my 2nd year of my Engineering with a team
 This is a secondry project that I have made for assignment of DM subject using PHP language.
 
 
+
+## Features
 =>Our Project is on:- online Art Gallery
 =>Name:- Better Eyes
 =>In this site user can sign-up and can create account.
