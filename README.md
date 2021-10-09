@@ -1,6 +1,6 @@
 # BetterEyes
 Better Eyes is a online art gallery-project.
-BetterEyes is a Project that I made in my 2nd year of my Engineering with a team of 2.
+BetterEyes is a Project that I made in my 2nd year of my Engineering with a team of 3.
 This is a secondry project that I have made for assignment of DM subject using PHP language.
 
 
